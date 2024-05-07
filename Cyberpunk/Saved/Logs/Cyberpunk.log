@@ -1148,3 +1148,29 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.07-05.24.25:308][  0]LogContentStreaming: Texture pool size now 600 MB
 [2024.05.07-05.24.25:712][  3]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
 [2024.05.07-05.24.26:199][ 21]LogShaderCompilers: Display: FShaderCompileThreadRunnable::WriteNewTasks() took too long (0.389 seconds, threshold is 0.300 s), will parallelize next time.
+[2024.05.07-05.25.36:439][812]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2024.05.07-05.25.36:512][812]LogContentBrowser: Creating deferred item: 새 폴더
+[2024.05.07-05.25.36:526][813]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2024.05.07-05.26.05:567][667]LogContentBrowser: Attempting asset rename: 새 폴더 -> Assets
+[2024.05.07-05.26.05:567][667]LogContentBrowser: End creating deferred item 새 폴더
+[2024.05.07-05.26.08:063][863]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2024.05.07-05.26.08:078][863]LogContentBrowser: Creating deferred item: 새 폴더
+[2024.05.07-05.26.08:097][865]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2024.05.07-05.26.23:603][921]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:19.003 and deleted 0 files with total size 0 MiB. Scanned 9707 files in 9487 folders with total size 236 MiB.
+[2024.05.07-05.26.23:777][932]LogContentBrowser: Attempting asset rename: 새 폴더 -> Characters
+[2024.05.07-05.26.23:778][932]LogContentBrowser: End creating deferred item 새 폴더
+[2024.05.07-05.26.32:975][916]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2024.05.07-05.26.32:997][916]LogContentBrowser: Creating deferred item: 새 폴더
+[2024.05.07-05.26.33:016][918]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2024.05.07-05.26.37:029][189]LogContentBrowser: Attempting asset rename: 새 폴더 -> NPCs
+[2024.05.07-05.26.37:030][189]LogContentBrowser: End creating deferred item 새 폴더
+[2024.05.07-05.26.50:363][581]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2024.05.07-05.26.50:380][581]LogContentBrowser: Creating deferred item: 새 폴더
+[2024.05.07-05.26.50:415][583]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2024.05.07-05.26.55:893][951]LogContentBrowser: Attempting asset rename: 새 폴더 -> Takemura
+[2024.05.07-05.26.55:894][951]LogContentBrowser: End creating deferred item 새 폴더
+[2024.05.07-05.26.58:421][157]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2024.05.07-05.26.58:435][157]LogContentBrowser: Creating deferred item: 새 폴더
+[2024.05.07-05.26.58:445][158]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2024.05.07-05.27.02:357][426]LogContentBrowser: Attempting asset rename: 새 폴더 -> Jackie
+[2024.05.07-05.27.02:358][426]LogContentBrowser: End creating deferred item 새 폴더
